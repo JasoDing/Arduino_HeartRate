@@ -1,4 +1,7 @@
-Data Collection: 
+This is the Data collection part for project "Health Monitor" for 16:332:567 SoftWare Engineering. 
+
+Project main page: 
+http://healthmonitoringhomepage-env.5ndteffiz2.us-east-2.elasticbeanstalk.com/
 
 WARNING : 
 
@@ -67,6 +70,10 @@ COPYRIGHT AND LICENSING:
     http://www.ti.com/lit/an/slaa655/slaa655.pdf
     
     For the usage of Max30102 device and software, please check the "License" in the folder "HeartRate-v1".
+    
+    The device is built according to:
+     http://www.xtronical.com/basics/heart-beat-sensor-ecg-display/
+    Huge Thanks to xtronical for the nice video. 
 
 CONTACT INFORMATION :
 
